@@ -8,13 +8,13 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Personal Portfolio
+        Halo<br />
+        I'm Fajar
       </SectionTitle>
       <SectionText>
-        The purpose of Javascript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        Medioker level experience in web design and knowledge, producing quality work.
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <a href="#projects"><Button>Learn More</Button></a>
     </LeftSection>
   </Section>
 );
