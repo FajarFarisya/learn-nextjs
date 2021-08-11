@@ -12,7 +12,7 @@ const Hero = (props) => (
         I'm Fajar
       </SectionTitle>
       <SectionText>
-        Medioker level experience in web design and knowledge, producing quality work.
+        Medioker level experience in web development.
       </SectionText>
       <a href="#projects"><Button>Learn More</Button></a>
     </LeftSection>
